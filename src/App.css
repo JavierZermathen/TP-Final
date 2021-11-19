@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+  background-color: #61dafb;
+}
+
+.titulo {
+  font-size: 50px;
+  background-color: aquamarine;
+}
+
+
+.App-header {
+  
+  color: white;
+  
+  text-align: center;
+}
+
+
+.app-container{
+  width: 200px;
+
+  /* position: absolute;
+  left: 50%;
+  right: 50%;
+  padding-top: 5px;
+  padding-bottom: 5px; */
+  background-color: #282c34;
+  border-radius: 20px;
+
+}
+
+.table{
+
+  text-align: center;
+}
+
+.datos{
+
+ 
+
+}
